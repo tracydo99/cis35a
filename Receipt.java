@@ -1,9 +1,3 @@
-//Tracy Do
-//CIS35A 11Y, 62Z
-//Assignment -1
-//Due 10/03/2025
-//Submitted 10/01/2025
-
 import java.util.Scanner;
 
 public class Part_1 {
